@@ -1,0 +1,30 @@
+======================================================================
+RosettaML Bootcamp 2025 - HW2 Verification Results
+======================================================================
+
+Student Name: DEREK_T_WEI
+Timestamp: 2025-11-04T19:44:32.501093
+Python Version: 3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]
+Platform: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+
+Installation Checks:
+----------------------------------------------------------------------
+
+PYMOL:
+  Installed: True
+  Version: PyMOL 3.1.0 Open-Source (dbd983bdc8), 2025-10-30
+
+VSCODE:
+  Installed: True
+  Version: 1.105.1
+7d842fb85a0275a4a8e4d7e040d2625abbf7f084
+x64
+
+File Checks:
+----------------------------------------------------------------------
+  1ubq_session.pse: Present
+  1ubq_visualization.png: Present
+
+======================================================================
+STATUS: ALL CHECKS PASSED ✓
+======================================================================
